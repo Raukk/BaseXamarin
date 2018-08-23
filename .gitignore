@@ -1,0 +1,15 @@
+BaseXamarinApp/BaseXamarinApp.Android/bin/
+BaseXamarinApp/BaseXamarinApp.Android/obj/
+BaseXamarinApp/BaseXamarinApp.iOS/obj/
+BaseXamarinApp/BaseXamarinApp.UWP/bin/
+BaseXamarinApp/BaseXamarinApp.UWP/obj/
+BaseXamarinApp/BaseXamarinApp/bin/
+BaseXamarinApp/BaseXamarinApp/obj/
+Business/bin/
+Business/obj/
+DataAccess/bin/
+DataAccess/obj/
+Presentation/bin/
+Presentation/obj/
+Shared/obj/
+Shared/bin/
